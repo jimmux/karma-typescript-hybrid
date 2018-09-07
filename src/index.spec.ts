@@ -1,6 +1,6 @@
 import "./index.js";
 declare var window: any;
-declare var a: any;
+declare var a: string;
 
 describe("example", () => {
   it("should work", () => {
